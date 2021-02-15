@@ -1,0 +1,42 @@
+
+body{
+    background-color: #ffd9df;
+
+}
+
+.navbar {
+    background-color: #ffc0cb;
+}
+
+.navbar-toggler{
+    border-color: pink;
+    box-sizing: border-box;
+}
+
+.section1 {
+    font-family: 'Lovers Quarrel', cursive;
+}
+
+.section1 i {
+    font-size: large;
+}
+
+/* edit text */
+.edit1 {
+    font-size: 35px;
+    padding-top: 10px;
+}
+.edit2 {
+    font-size: 35px;
+    padding-left: 35px;
+}
+
+.edit3 {
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.section2 {
+    background-color: white;
+}
